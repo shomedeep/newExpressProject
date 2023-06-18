@@ -1,0 +1,11 @@
+{
+  "name": "mycontact-backend-api",
+  "version": "1.0.0",
+  "description": "mycontact-backend-api",
+  "main": "server.js",
+  "scripts": {
+    "test": " "
+  },
+  "author": "Shomedeep Mondal",
+  "license": "ISC"
+}
